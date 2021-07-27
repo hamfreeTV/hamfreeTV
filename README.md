@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+currently learning web development (working on my own website)
+e-mail: sinan@hamfree.de
+
 <!--
 **hamfreeTV/hamfreeTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
